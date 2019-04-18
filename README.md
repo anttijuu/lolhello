@@ -4,7 +4,7 @@
 
 View demo video on YouTube.
 
-[! [LOL Demo video in YouTube](YouTubeLOLScreen.png)](https://www.youtube.com/watch?v=PxpiBOY9eOw)
+![LOL Demo video in YouTube](YouTubeLOLScreen.png)(https://www.youtube.com/watch?v=PxpiBOY9eOw)
 
 
 ## Prerequisites
