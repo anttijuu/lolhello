@@ -13,9 +13,9 @@ For building and running the app, you first need to build the LOLCODE interprete
 
 1. get the [LOLCODE interpreter](https://github.com/justinmeza/lci) lci by Justin Meza.
 2. install C/C++ compiler if not yet on your machine.
-3. CMake for building the lci interpreter
+3. install CMake for building the lci interpreter.
 
-See Meza's instructions on how to actually build lci.
+See Meza's instructions on how to actually build lci using CMake.
 
 ## Running 
 
