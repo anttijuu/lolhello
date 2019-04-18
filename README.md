@@ -1,8 +1,8 @@
 # HAI WORLD LOL
 
-"Hello user" implementation in [LOLCODE](http://www.lolcode.org) programming language.
+"Hello user" implementation in [esoteric](https://en.wikipedia.org/wiki/Esoteric_programming_language) programming language [LOLCODE](http://www.lolcode.org) programming language.
 
-View demo video on YouTube.
+Demo video on YouTube.
 
 [ ![LOL Demo video in YouTube](YouTubeLOLScreen.png)](https://www.youtube.com/watch?v=PxpiBOY9eOw)
 
@@ -25,7 +25,6 @@ Run hello.lol using lci:
 lci hello.lol
 ```
 Enter your name as the app asks it and prints out a greeting. Then the app exits.
-
 
 ## Who did this
 
