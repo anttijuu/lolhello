@@ -1,10 +1,10 @@
 # HAI WORLD LOL
 
-"Hello user" implementation using LOLCODE.
+"Hello user" implementation in [LOLCODE](http://www.lolcode.org) programming language.
 
 View demo video on YouTube.
 
-![LOL Demo video in YouTube](YouTubeLOLScreen.png)(https://www.youtube.com/watch?v=PxpiBOY9eOw)
+[ ![LOL Demo video in YouTube](YouTubeLOLScreen.png)](https://www.youtube.com/watch?v=PxpiBOY9eOw)
 
 
 ## Prerequisites
