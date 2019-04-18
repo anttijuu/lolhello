@@ -9,22 +9,22 @@ Demo video on YouTube.
 
 ## Prerequisites
 
-For building and running the app, you need:
+For building and running the app, you first need to build the LOLCODE interpreter:
 
-1. the [LOLCODE implementation](https://github.com/justinmeza/lci) lci by Justin Meza.
-2. C/C++ compiler
-3. CMake for building the LOLCODE
+1. get the [LOLCODE interpreter](https://github.com/justinmeza/lci) lci by Justin Meza.
+2. install C/C++ compiler if not yet on your machine.
+3. CMake for building the lci interpreter
 
-See Meza's instructions on how to build lci.
+See Meza's instructions on how to actually build lci.
 
 ## Running 
 
-Run hello.lol using lci:
+After building and installing lci, you can run hello.lol using lci:
 
 ```
 lci hello.lol
 ```
-Enter your name as the app asks it and prints out a greeting. Then the app exits.
+Enter your name (try also pressing enter with empty name) as the app asks it and prints out a greeting. Then the app exits.
 
 ## Who did this
 
